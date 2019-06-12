@@ -9,7 +9,10 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
+    //打包文件时使用./
     assetsPublicPath: './',
+    //本地运行时去掉.
+    // assetsPublicPath: '/',
     proxyTable: {},
 
     // Various Dev Server settings
@@ -43,7 +46,10 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
+    //打包文件时使用./
     assetsPublicPath: './',
+    //本地运行时去掉.
+    // assetsPublicPath: '/',
 
     /**
      * Source Maps
