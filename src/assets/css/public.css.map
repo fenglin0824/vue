@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACQ,sBAAW;AACnB,IAAI,GACF,UAAU,EAAE,IAAI;;AAElB,MAAM,GACJ,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,IAAI,EACX,IAAI,EAAE,CAAC,EACP,MAAM,EAAE,IAAI",
-"sources": ["../scss/public.scss"],
-"names": [],
-"file": "public.css"
-}
